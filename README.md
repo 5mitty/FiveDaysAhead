@@ -6,7 +6,8 @@ video[demo]: https://youtu.be/anWdzzY1ufY
 
 ## Screenshots
 
-
+![History from DB](Assets/FiveDaysAheadScreenShot1.png)
+![New Search](Assets/FiveDaysAheadScreenShot2.png)
 
 ## Description
 
